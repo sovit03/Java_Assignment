@@ -1,0 +1,2 @@
+# Run daily at 10 PM
+0 22 * * * /bin/bash /Users/sovitkarki/assignment/Spring_Java_project/JavaApp-CICD/deploy/scripts/backup.sh >> /Users/sovitkarki/backup.log 2>&1

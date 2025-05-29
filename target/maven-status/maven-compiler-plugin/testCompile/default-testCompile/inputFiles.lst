@@ -1,0 +1,11 @@
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceJpaTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/web/CrashControllerTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/web/PetTypeFormatterTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/web/VisitControllerTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/service/AbstractClinicServiceTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceJdbcTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/web/PetControllerTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/web/OwnerControllerTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/web/VetControllerTests.java
+/Users/sovitkarki/Assignment/Spring_Java_project/JavaApp-CICD/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceSpringDataJpaTests.java
